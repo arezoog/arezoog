@@ -1,6 +1,8 @@
 ## Hi! I'm Arezoo
 
-I'm a Statistics major, Machine Learning emphasis, with a minor in Neuroscience student at UC Davis with a passion for exploring the intersection between the human brain and computers. 
+I’m an undergraduate at UC Davis majoring in Statistics (Machine Learning emphasis) with a minor in Neuroscience. My interests lie at the intersection of brain science and computational intelligence, where I explore how human cognition can inform and inspire machine learning models.
+
+
 
 ### Research Projects
 
