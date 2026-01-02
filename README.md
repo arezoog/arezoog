@@ -2,7 +2,6 @@
 
 I'm an undergraduate at **UC Davis** majoring in Statistics. I explore how human cognition can inform and inspire machine learning models.
 
- **Seeking Summer 2026 Research Internships** in Human-AI Interaction, Cognitive Neuroscience & AI Alignment
 
 ## Research
 
