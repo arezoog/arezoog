@@ -1,8 +1,8 @@
-# Hi! I'm Arezoo 👋
+# Hi! I'm Arezoo 😊 
 
 I'm an undergraduate at **UC Davis** majoring in Statistics (Machine Learning emphasis) with a minor in Neuroscience. I explore how human cognition can inform and inspire machine learning models.
 
-🔬 **Seeking Summer 2026 Research Internships** in Human-AI Interaction, Cognitive Neuroscience & AI Alignment
+ **Seeking Summer 2026 Research Internships** in Human-AI Interaction, Cognitive Neuroscience & AI Alignment
 
 ## Research
 
@@ -15,6 +15,13 @@ Investigating neural responses to speech using ERP analysis (ABR, MLR, LLR). IRB
 ## Skills
 
 `Python` `R` `MNE-Python` `scikit-learn` `pandas` `NumPy` `Jupyter` `RAG Systems`
+
+## Beyond Research
+
+🏄‍♀️ Triathlete-in-training who surfs to decompress  
+🎵 Explorer of music genres, cuisines, and unconventional photography angles  
+🇮🇷 Persian-American bringing cross-cultural perspective to my research
+
 
 ## Links
 
