@@ -24,4 +24,4 @@ Investigating neural responses to speech using ERP analysis (ABR, MLR, LLR). IRB
 
 ## Links
 
-🌐 [Portfolio](https://brainy-bites-portfolio.lovable.app/) • 📄 [CV](https://your-lovable-url.lovable.app/Resume_Arezoo_Ghasemzadeh.pdf)
+🌐 [Portfolio]() • 📄 [CV](https://your-lovable-url.lovable.app/Resume_Arezoo_Ghasemzadeh.pdf)
