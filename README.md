@@ -1,6 +1,6 @@
 # Hi! I'm Arezoo :)
-
-I'm an undergraduate at **UC Davis** majoring in Statistics. I explore how human cognition can inform and inspire machine learning models.
+**
+I'm an undergraduate at UC Davis majoring in Statistics. I explore how human cognition can inform and inspire machine learning models.
 
 
 ## Research
@@ -14,12 +14,6 @@ Investigating neural responses to speech using ERP analysis (ABR, MLR, LLR). IRB
 ## Skills
 
 `Python` `R` `MNE-Python` `scikit-learn` `pandas` `NumPy` `Jupyter` `RAG Systems`
-
-## Beyond Research
-
-🏄‍♀️ Triathlete-in-training + surf  
-🎵 Explorer of music genres, cuisines, and unconventional photography angles  
-🇮🇷 Persian-American bringing cross-cultural perspective to my research
 
 
 ## Links
