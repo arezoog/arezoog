@@ -1,4 +1,4 @@
-# Hi! I'm Arezoo 😊 
+# Hi! I'm Arezoo :)
 
 I'm an undergraduate at **UC Davis** majoring in Statistics. I explore how human cognition can inform and inspire machine learning models.
 
