@@ -17,7 +17,7 @@ Investigating neural responses to speech using ERP analysis (ABR, MLR, LLR). IRB
 
 ## Beyond Research
 
-🏄‍♀️ Triathlete-in-training who surfs to decompress  
+🏄‍♀️ Triathlete-in-training + surf  
 🎵 Explorer of music genres, cuisines, and unconventional photography angles  
 🇮🇷 Persian-American bringing cross-cultural perspective to my research
 
